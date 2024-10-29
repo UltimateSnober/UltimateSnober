@@ -24,7 +24,7 @@ I'm passionate about learning new technologies and building projects that make a
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-bekoul-)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-bekoul)
 - [Email](nm_bekoul@esi.dz)
 
 ---
