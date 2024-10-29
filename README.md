@@ -13,19 +13,19 @@ I'm passionate about learning new technologies and building projects that make a
 
 ## 🌟 Skills and Tools
 
-- **Languages:** Python, C++, [Add other languages you're learning]
-- **Technologies:** Git, [Add other tools, e.g., VS Code, Linux]
+- **Languages:** Python, C, HTML, CSS, JS
+- **Technologies:** Git, GitHub, VSCODE, Linux
 
 ## 📈 GitHub Stats
 
-![Amine's GitHub stats](https://github.com/BekoulAmine)
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekoulAmine&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-bekoul)
-- [Email](nm_bekoul@esi.dz)
+- [Email](mailto:nm_bekoul@esi.dz)
 
 ---
 
