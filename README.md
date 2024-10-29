@@ -18,7 +18,7 @@ I'm passionate about learning new technologies and building projects that make a
 
 ## 📈 GitHub Stats
 
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Amine's GitHub stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://github.com/BekoulAmine))
 
 ---
 
