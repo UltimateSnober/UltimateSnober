@@ -8,8 +8,8 @@ I'm passionate about learning new technologies and building projects that make a
 ## 💻 About Me
 
 - 🎓 Currently pursuing a degree in Computer Science
-- 🌱 Learning the fundamentals and diving into areas like [list specific interests, e.g., web development, algorithms, data science]
-- 🌍 Based in Algeria
+- 🌱 I'm Actually Learning Web Development 
+- 🌍 Based in Algeria (Algiers)
 
 ## 🌟 Skills and Tools
 
