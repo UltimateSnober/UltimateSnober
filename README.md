@@ -30,10 +30,10 @@ Fresh Computer Science Student from Algeria.
 
 ## 📈 GitHub Stats
 
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekoulAmine&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekoulAmine&layout=compact&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BekoulAmine&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=BekoulAmine&theme=radical)
+![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltimateSnober&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltimateSnober&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=UltimateSnober&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=UltimateSnober&theme=radical)
 ---
 
 ## 📫 Let's Connect
